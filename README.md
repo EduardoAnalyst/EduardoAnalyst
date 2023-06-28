@@ -2,8 +2,7 @@ Olá me chamo Jalison Eduardo e sou Analista e desenvolvedor Front-end! atualmen
 - 🔭 Atualmente estou trabalhando com Javascript
 - 🌱 Estudando Cybersecurity 
 - 💬 contate-me no email jalissonp13@gmail.com 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 - ⚡Fato divertido: sim eu estudo cybersegurança, é meu hobbie :D
 
 
