@@ -1,6 +1,6 @@
 Olá me chamo Jalison Eduardo e sou Analista e desenvolvedor Front-end! atualmente cursando ADS na FIAP.
 - 🔭 Atualmente estou trabalhando com Java
-- 🌱 Estudando Front-End
+- 🌱 Estudando Dados
 - 💬 contate-me no email jalissonp13@gmail.com 
 - 😄 Pronomes: ele/dele
 - ⚡Fato divertido: Amo trabalhar com Dados :D
