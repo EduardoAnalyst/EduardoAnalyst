@@ -1,4 +1,4 @@
-Olá me chamo Eduardo e sou Analistade Dados! 
+Olá me chamo Eduardo e sou Analista de Dados! 
 - 🔭 Atualmente estou trabalhando em Analytics Engineer
 - 🌱 Estudando Dados
 - ⚡Fato divertido: Amo trabalhar com BI :D
